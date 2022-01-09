@@ -7,8 +7,8 @@
 Bu sayfa içerisinde
 * Derslere ait repositoryler
 * Ödevler
- 
 * Duyurular
+
 Paylaşılmaktadır.
 
 Safya yönetimi [Halil İbrahim Demirdirek](https://20215070031.github.io/) tarafından yapılmaktadır .
